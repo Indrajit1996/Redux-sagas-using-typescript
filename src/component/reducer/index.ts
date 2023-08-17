@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux';
-import account from './account.js';
+import account from './account';
 
 const mainReducer = combineReducers({
   account,
